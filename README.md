@@ -2,7 +2,7 @@
 
 > A beginner-friendly, hands-on introduction to building **graph-based AI workflows** with LangGraph. 
 
-LangGraph is a library built on top of LangChain that lets you model complex, multi-step workflows as **graphs** — where each step is a *node* and the connections between steps are *edges*. This repo walks you through the two most fundamental patterns: sequential execution and conditional (orchestrator-driven) routing.
+LangGraph is a library built on top of LangChain that lets you model complex, multi-step workflows as **graphs** where each step is a *node* and the connections between steps are *edges*. This repo walks you through the two most fundamental patterns: sequential execution and conditional (orchestrator-driven) routing.
 
 ---
 
